@@ -1,0 +1,352 @@
+body{
+    background: rgb(204, 250, 250)
+}
+ nav ul{
+    list-style-type: none;
+    float: right;
+    padding-right: 60px;
+    margin-top: -2%;
+   }
+a{
+    text-decoration: none;
+    padding: 5px;
+    padding: 10px;
+    font-size: large;
+}
+.logo{
+    padding-left: 20%;
+    margin-bottom: -10%;
+    font-size: x-large;
+    
+    
+}
+.line{
+    padding-left: 10%;
+    margin-top: 100px;
+    
+}
+.pic{
+    border: solid rgb(80, 218, 228);
+    height: 400px;
+    position: relative;
+    width: 550px;
+    border-radius: 100%;
+    border-width: 60px;
+    border-bottom: center;
+    margin-left: 45%;
+    margin-top: -5%;
+    background-color: rgb(203,228,250);
+}
+.family{
+    margin-top: -35%;
+    font-size: xx-large;
+    padding-left: 10%
+
+    }
+    .fa.fa-quote-left{
+        color: rgb(123, 250, 250);
+    }
+    .fa.fa-quote-left{
+        color: rgb(123, 250, 250);
+    }
+
+button{
+    color: rgb(82, 145, 161);
+    width: 10%;
+    text-align: center;
+    margin-left: 10%;
+    height:3%;
+    padding: 1px;
+    border-radius: 20px;
+    border: 20px solid;
+    }
+    .fa.fa-play-circle{
+        font-size: xx-large;
+        margin-left: 20px;
+    }
+.hour{
+    padding-left: 120px;
+}
+
+.content{
+    display: flex;
+    height: 400px;
+    padding-top:120px;
+
+   }
+.container{
+    background-color:rgb(207, 255, 255);
+    
+    
+
+   }
+.style p{
+    float: right;
+    margin-top: -1px;
+    padding-right: 40px;
+}
+.style h4{
+    font-size: xx-large;
+    padding-left: 20px;
+    padding-top: 70px;
+     margin-top: 40px; 
+}
+.radio{
+    padding: 30px;
+    background-color: white;
+    margin-left: 10%;
+    height: 200px;
+    width: 3000px;
+}
+.ambulance{
+    padding: 30px;
+    background-color: white;
+    margin-left: 10%;
+    height: 200px;
+    width:  3000px;
+}
+.care{
+    padding: 30px;
+    background-color: white;
+    margin-left: 10%;
+    height: 200px;
+    width: 3000px;
+
+}
+.content-two{
+    display: flex;
+    margin-top: -100px;
+    
+}
+.oparation{
+    padding: 30px;
+    background-color: white;
+    margin-left: 5%;
+    height: 150px;
+}
+.Service{
+    padding: 30px;
+    background-color: white;
+    margin-left: 5%;
+    height: 150px;
+}
+
+
+.Pet{
+    padding: 30px;
+    background-color: white;
+    margin-left: 5%;
+    height: 150px;
+}
+.container-two{
+    padding-left: 700px;
+    
+}
+.button-two{
+    border-radius: 2px;
+    border: solid  2px;
+    background-color: rgb(114, 208, 231);
+    height: 40px;
+    width: 150px;
+    margin-left: 700px;
+    text-align: center;
+    margin-bottom: -100px;
+    margin-top: -230px;
+    }
+.image{
+    margin-top: -250px;
+    background-color: rgb(158, 217, 231);
+    width: 550px;
+    height: 500px;
+}
+.content-three{
+    background-color:rgb(207, 255, 255);
+    height: 900px;
+}
+.content-four{
+    margin-top: 400px;
+    display: flex;
+}
+.content-four h3{
+    margin-left: 400px;
+}
+.content-four h1{
+    margin-left: 80px;
+}
+.content-five{
+    display: flex;
+    background-color:rgb(207, 255, 255);
+}
+.Interested{
+    background-color: white;
+    padding: 30px;
+    margin-left: 5%;
+    height: 300px;
+    margin-top: -90px;
+    padding-top: 100px;
+}
+.cheap{
+    background-color: white;
+    padding: 30px;
+    margin-left: 19%;
+    height: 300px;
+    margin-top: -90px;
+    padding-top: 100px;
+}
+.doctors{
+    background-color: white;
+}
+.Veterinarian{
+    height: 400px;
+    display: flex;
+    
+
+    }
+.blog p{
+    border-radius: 2px;
+    border: solid  2px;
+    background-color: rgb(114, 208, 231);
+    height: 40px;
+    width: 150px;
+    margin-left: 800px;
+    text-align: center;
+    margin-bottom: -100px;
+    margin-top: -40px;
+
+}
+.blog{
+    height: 400px;
+    margin-left: 0%;
+    height: 150px;
+    width: 1000px;
+    border: 2px solid;
+    border-radius: 20px;
+    margin-bottom: 15%;
+    margin-top: 5%;
+    margin-left: 150px;
+    background-color:rgb(207, 255, 255);
+    }
+.fa.fa-desktop{
+    color: rgb(123, 250, 250);
+    font-size: larger;
+}
+.fa.fa-times{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.fa.fa-plus-circle{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+    font-size: xx-large;
+}
+.fa.fa-clipboard{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.fa.fa-paw{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+
+
+}
+.fa.fa-medkit{
+    color: rgb(184, 250, 250);
+    font-size: xx-large;
+}
+
+.blog h4{
+    margin-left: 400px;
+    
+}
+.blog h1{
+    text-align: center;
+    
+    }
+.Email{
+    
+    width: 1120px;
+    height: 100px;
+    
+}
+.doc-three{
+    padding-left: 5%;
+    background-color: antiquewhite;
+    width: 330px;
+    height: 270px;
+}
+.doc-two{
+    padding-left: 6%;
+    margin-left: 3%;
+    background-color: rgb(149, 231, 250);
+    margin-right: 30px;
+    width: 350px;
+    height: 270px;
+    }
+.doc-one{
+    background-color: rgb(238, 212, 238);
+    padding-right: 2%;
+    height: 270px;
+}
+.footer{
+    display: flex;
+    margin-top: -100px;
+    background-color:rgb(207, 255, 255);
+}
+.About{
+    padding-left: 15%;
+}
+.community{
+    padding-left: 13%;
+}
+.product{
+    padding-left:10%;
+}
+.yourpet{
+    padding-left: 5%;
+}
+.fa.fa-facebook-square{
+    color: rgb(9, 65, 129);
+
+}
+.fa.fa-twitter-square{
+    color: rgb(24, 192, 248);
+    padding-left: 10%;
+
+    
+}
+.fa.fa-google-plus-square{
+    color: red;
+    padding-left: 10%;
+
+}
+.fa.fa-linkedin-square{
+    color: rgb(93, 93, 252);
+    padding-left: 10%;
+}
+.topic h3{
+    margin-left: 90%;
+    color: aqua;
+}
+.fa.fa-star{
+    color: rgb(255, 207, 118);
+
+}
+ 
+    
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+    
+
+
+
